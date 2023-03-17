@@ -1,0 +1,11 @@
+Package: com.lcampbell0x.dropbear
+Version: 1.0
+Section: System
+Maintainer: thanhtraitan@gmail.com
+Architecture: iphoneos-arm
+Filename: ./debs/Dropbear.deb
+Size: 1,832,962
+MD5sum: c8f4767f3ae14767eed689fdd5591995
+Description: dropbear for ios  10
+Name: Dropbear
+Author: DropBear
